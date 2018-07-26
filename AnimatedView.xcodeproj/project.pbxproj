@@ -14,6 +14,7 @@
 		57E09AAD2109FBB1004BC9B5 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 57E09AAB2109FBB1004BC9B5 /* LaunchScreen.storyboard */; };
 		57E09AB82109FBB1004BC9B5 /* AnimatedViewTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57E09AB72109FBB1004BC9B5 /* AnimatedViewTests.swift */; };
 		57E09AC32109FBB1004BC9B5 /* AnimatedViewUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57E09AC22109FBB1004BC9B5 /* AnimatedViewUITests.swift */; };
+		57E09AD12109FC0A004BC9B5 /* AnimatedView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 57E09AD02109FC0A004BC9B5 /* AnimatedView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		57E09ABE2109FBB1004BC9B5 /* AnimatedViewUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = AnimatedViewUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		57E09AC22109FBB1004BC9B5 /* AnimatedViewUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimatedViewUITests.swift; sourceTree = "<group>"; };
 		57E09AC42109FBB1004BC9B5 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		57E09AD02109FC0A004BC9B5 /* AnimatedView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimatedView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +101,7 @@
 			children = (
 				57E09AA22109FB9D004BC9B5 /* AppDelegate.swift */,
 				57E09AA42109FB9D004BC9B5 /* ViewController.swift */,
+				57E09AD02109FC0A004BC9B5 /* AnimatedView.swift */,
 				57E09AA62109FB9D004BC9B5 /* Main.storyboard */,
 				57E09AA92109FBB0004BC9B5 /* Assets.xcassets */,
 				57E09AAB2109FBB1004BC9B5 /* LaunchScreen.storyboard */,
@@ -257,6 +260,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				57E09AA52109FB9D004BC9B5 /* ViewController.swift in Sources */,
+				57E09AD12109FC0A004BC9B5 /* AnimatedView.swift in Sources */,
 				57E09AA32109FB9D004BC9B5 /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
