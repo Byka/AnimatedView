@@ -8,7 +8,7 @@ This fantastic view changes its color gradually makes your app look fantastic!
                        DESC
  
   s.homepage         = 'https://github.com/Byka/AnimatedView'
-  s.license          = 'MIT'
+  s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'Srinivasa' => 'bykasrinivas@gmail.com' }
   s.source           = { :git => 'https://github.com/Byka/AnimatedView.git', :tag => s.version.to_s }
  
